@@ -1,3 +1,2 @@
 # xa1ex
-+ccompute services (everything partitioned) all
-
++ccompute all things to ops (?) (everything partitioned)
